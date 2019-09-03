@@ -1,0 +1,53 @@
+
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: white;
+	background-size: cover;
+}
+
+button {
+	width: 10em;
+	height: 2.5em;
+	border-radius: .5em;
+	border:	none;
+	margin-bottom: .5em;
+	background-color: green;
+}
+
+div, h1, h3, h6, footer {
+	text-align: center;
+	font-family: "Purisa";
+	color: #fff;
+	/*background-image: linear-gradient(to right, red, green);*/
+}
+
+div {
+
+	background-image: url(img/stripes.jpg);
+}
+
+table, input {
+	margin: 0 auto;
+}
+
+td {
+	width: 144px;
+	height: 105px;
+	float: left;
+	z-index: -1;
+}
+
+img {
+	width: 9em;
+	z-index: 1;
+}
+
+div {
+	/*background-image: url(img/stripes.jpg);*/
+
+}
+
