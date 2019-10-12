@@ -2,6 +2,19 @@
 	font-family: Macondo;
 }
 
+.btn {
+	margin-left: 40px;
+}
+
+.col-md-3 {
+	background-color: #323334;
+	position: relative;
+	border-radius: 10px;
+	border: 4mm ridge red;
+	/*rgba(170, 50, 220, .6)*/
+
+}
+
 img {
 	width: 100%;
 	text-align: center;
