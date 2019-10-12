@@ -2,6 +2,7 @@
 	font-family: Macondo;
 }
 
+
 .btn {
 	margin-left: 40px;
 }
@@ -10,7 +11,7 @@
 	background-color: #323334;
 	position: relative;
 	border-radius: 10px;
-	border: 4mm ridge red;
+	border: 3mm ridge red;
 	/*rgba(170, 50, 220, .6)*/
 
 }
